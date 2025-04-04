@@ -1,4 +1,4 @@
-JPG NT35510 STM32 HD DISPLAY
+JPG NT35510 STM32 HD DISPLAY SD DMA
 
 https://www.youtube.com/watch?v=nc6CNb1N1ck
 
